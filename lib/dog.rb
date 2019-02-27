@@ -1,5 +1,5 @@
 class Dog
-  def breed=(Beagle)
+  def breed=(breed)
    @breed =breed
   end
 
